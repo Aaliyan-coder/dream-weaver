@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, Clock, ArrowRight, Check, Loader2 } from "lucide-react";
 
 // ─── Change this to your deployed backend URL in production ──────────────────
-const API_URL = "https://superb-reverence-production-1791.up.railway.app/api/contact";
+const API_URL = "https://dream-weaver-blue.vercel.app/api/contact";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const ContactSection = () => {
